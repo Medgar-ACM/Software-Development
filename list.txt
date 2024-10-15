@@ -1,0 +1,10 @@
+git add .
+git commit -m "message"
+git push origin <branch-name>
+
+git log
+git status
+git checkout -b <branch-name>
+git checkout <branch>
+
+git pull
